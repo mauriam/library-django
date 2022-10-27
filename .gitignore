@@ -1,0 +1,7 @@
+env/
+__pycache__
+.env
+apps/*/migrations/*
+!apps/*/migrations/__init__.py
+*.pdf
+db.sqlite3
